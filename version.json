@@ -1,7 +1,0 @@
-{
-  "device": "test_device",
-  "version": "1.0.1",
-  "firmware": "https://raw.githubusercontent.com/yourcompany/device-ota-server/main/firmware/stm32_v1.0.1.bin",
-  "size": 262144,
-  "crc": "0xDEADBEEF"
-}
