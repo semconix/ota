@@ -1,7 +1,5 @@
 {
-  "device": "patient_monitor",
   "version": "1.0.1",
   "size": 65536,
-  "crc32": "0xacb12dad",
-  "url": "https://example.com/ota/firmware/stm32_v1.0.1.bin"
+  "crc32": "0xacb12dad"
 }
